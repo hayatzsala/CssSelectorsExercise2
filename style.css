@@ -1,0 +1,30 @@
+h1 {
+    color: green;
+}
+
+h2 {
+    color: green;
+}
+
+.locations-subset li{
+  color : red;
+}
+strong, em {
+  color : orange;
+}
+.location-name{
+  color : blue;
+}
+.topic-name{
+  color : purple;
+}
+form {
+  color: #AE1101;
+}
+
+a:visited{
+  color : #11F1F6;
+}
+p{
+  font-style : bold;
+}
